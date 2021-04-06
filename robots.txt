@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
-Sitemap: https://dev.urban-electronic.com/wp-sitemap.xml
+Sitemap: https://urban-electronic.com/wp-sitemap.xml
