@@ -102,11 +102,11 @@ if __name__ == "__main__":
     processor.moveFiles("company")
 
     
-    fromString = "rel='dns-prefetch' href='//localhost'"
+    fromString = "rel='dns-prefetch' href='//authorised-customer-care.com'"
     toString = "rel='dns-prefetch' href='//authorised-customer-care.com'"
-    processor.changeURL("products", fromString, toString)
-    processor.changeURL("brands", fromString, toString)
-    processor.changeURL("company", fromString, toString)
-    processor.changeURL("company", "http://localhost:4009/", "https://authorised-customer-care.com/")
-    processor.changeURL("product", fromString, toString)
     processor.changeURL(".", fromString, toString)
+    processor.changeURL("company", "http://localhost:4009/", "https://authorised-customer-care.com/")
+    # processor.changeURL("products", fromString, toString)
+    # processor.changeURL("brands", fromString, toString)
+    # processor.changeURL("company", fromString, toString)
+    # processor.changeURL("product", fromString, toString)

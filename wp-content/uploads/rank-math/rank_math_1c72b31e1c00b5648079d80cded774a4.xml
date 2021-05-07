@@ -1,47 +1,47 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//authorised-customer-care.com/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//localhost:4009/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://authorised-customer-care.com/page-sitemap.xml</loc>
+		<loc>http://localhost:4009/page-sitemap.xml</loc>
 		<lastmod>2021-05-06T12:41:21+05:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://authorised-customer-care.com/product-sitemap1.xml</loc>
-		<lastmod>2021-05-06T15:43:42+05:00</lastmod>
+		<loc>http://localhost:4009/product-sitemap1.xml</loc>
+		<lastmod>2021-05-07T19:42:36+05:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://authorised-customer-care.com/product-sitemap2.xml</loc>
-		<lastmod>2021-05-06T15:43:42+05:00</lastmod>
+		<loc>http://localhost:4009/product-sitemap2.xml</loc>
+		<lastmod>2021-05-07T19:42:36+05:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://authorised-customer-care.com/product-sitemap3.xml</loc>
-		<lastmod>2021-05-06T15:43:42+05:00</lastmod>
+		<loc>http://localhost:4009/product-sitemap3.xml</loc>
+		<lastmod>2021-05-07T19:42:36+05:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://authorised-customer-care.com/product-sitemap4.xml</loc>
-		<lastmod>2021-05-06T15:43:42+05:00</lastmod>
+		<loc>http://localhost:4009/product-sitemap4.xml</loc>
+		<lastmod>2021-05-07T19:42:36+05:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://authorised-customer-care.com/product-sitemap5.xml</loc>
-		<lastmod>2021-05-06T15:43:42+05:00</lastmod>
+		<loc>http://localhost:4009/product-sitemap5.xml</loc>
+		<lastmod>2021-05-07T19:42:36+05:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://authorised-customer-care.com/product-sitemap6.xml</loc>
-		<lastmod>2021-05-06T15:43:42+05:00</lastmod>
+		<loc>http://localhost:4009/product-sitemap6.xml</loc>
+		<lastmod>2021-05-07T19:42:36+05:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://authorised-customer-care.com/product-sitemap7.xml</loc>
-		<lastmod>2021-05-06T15:43:41+05:00</lastmod>
+		<loc>http://localhost:4009/product-sitemap7.xml</loc>
+		<lastmod>2021-05-07T19:42:36+05:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://authorised-customer-care.com/product-sitemap8.xml</loc>
-		<lastmod>2021-05-06T15:43:41+05:00</lastmod>
+		<loc>http://localhost:4009/product-sitemap8.xml</loc>
+		<lastmod>2021-05-07T19:42:34+05:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://authorised-customer-care.com/product-sitemap9.xml</loc>
-		<lastmod>2021-05-06T15:43:41+05:00</lastmod>
+		<loc>http://localhost:4009/product-sitemap9.xml</loc>
+		<lastmod>2021-05-07T19:42:34+05:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://authorised-customer-care.com/product-sitemap10.xml</loc>
-		<lastmod>2021-05-06T15:43:41+05:00</lastmod>
+		<loc>http://localhost:4009/product-sitemap10.xml</loc>
+		<lastmod>2021-05-07T19:42:34+05:00</lastmod>
 	</sitemap>
 </sitemapindex>
