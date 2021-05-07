@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="http://localhost:4009/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//authorised-customer-care.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://authorised-customer-care.com/</loc>
 		<lastmod>2021-05-06T12:10:18+05:00</lastmod>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/04/dish-washer-1024x576.jpg</image:loc>
+			<image:loc>https://authorised-customer-care.com/wp-content/uploads/2021/04/dish-washer-1024x576.jpg</image:loc>
 			<image:caption><![CDATA[Best Faber Dishwasher repair service in Belgum]]></image:caption>
 		</image:image>
 		<image:image>
-			<image:loc>/wp-content/uploads/2021/04/laptop-computer.jpg</image:loc>
+			<image:loc>https://authorised-customer-care.com/wp-content/uploads/2021/04/laptop-computer.jpg</image:loc>
 			<image:caption><![CDATA[Best Avita Laptop repair service in Belgum]]></image:caption>
 		</image:image>
 	</url>
 	<url>
-		<loc>/brands/</loc>
+		<loc>https://authorised-customer-care.com/brands/</loc>
 		<lastmod>2021-05-06T12:41:21+05:00</lastmod>
 	</url>
 </urlset>
