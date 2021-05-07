@@ -98,15 +98,17 @@ class PostProcess():
 
 if __name__ == "__main__":
     processor = PostProcess(True, False, logging.DEBUG)
-    processor.renameFiles("company")
-    processor.moveFiles("company")
+    # processor.renameFiles("company")
+    # processor.moveFiles("company")
 
     
-    fromString = "rel='dns-prefetch' href='//authorised-customer-care.com'"
-    toString = "rel='dns-prefetch' href='//authorised-customer-care.com'"
-    processor.changeURL(".", fromString, toString)
-    processor.changeURL("company", "http://localhost:4009/", "https://authorised-customer-care.com/")
+    # fromString = "rel='dns-prefetch' href='//authorised-customer-care.com'"
+    # toString = "rel='dns-prefetch' href='//authorised-customer-care.com'"
+    # processor.changeURL(".", fromString, toString)
+    # processor.changeURL("company", "http://localhost:4009/", "https://authorised-customer-care.com/")
     # processor.changeURL("products", fromString, toString)
     # processor.changeURL("brands", fromString, toString)
     # processor.changeURL("company", fromString, toString)
     # processor.changeURL("product", fromString, toString)
+    processor.changeURL("company", ", noindex", ", index")
+
